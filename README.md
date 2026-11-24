@@ -59,7 +59,7 @@ python3 --version
 
 ### Step 1: Navigate to the Project Directory
 ```bash
-cd "College-Attendance-Analyzer"
+cd ~/Documents/Projects/91_College-Attendance-Analyzer_RU-26-02082_10_Sheikh-Mohammad-Nadeem
 ```
 
 ### Step 2: (Recommended) Create and Activate a Virtual Environment
